@@ -13,6 +13,41 @@ import pandas as pd
 
 BASE_URL = 'https://cosmos-api.ceh.ac.uk'
 
+def get_single_station_metadata(station_name, site_info=None):
+    if not site_info:
+        site_info = get_cosmos_station_metadata()
+    site_info_df = pd.DataFrame.from_dict(site_info).T
+    s_df = site_info_df[site_info_df.index == station_name]
+    return s_df
+
+
+def get_cosmos_station_metadata():
+    """ Get COSMOS station metadata
+
+    :return: all COSMOS stations metadata
+    """
+    site_info_url = f"{BASE_URL}/collections/1D/locations"
+    site_info_response = get_api_response(site_info_url)
+
+    site_info = {}
+    for site in site_info_response["features"]:
+        site_id = site["id"]
+        site_name = site["properties"]["label"]
+        coordinates = site["geometry"]["coordinates"]
+        date_range = site["properties"]["datetime"]
+        start_date, end_date = date_range.split("/")
+
+        other_info = site["properties"]["siteInfo"]
+        other_info = {key: d["value"] for key, d in other_info.items()}
+
+        site_info[site_id] = {
+            "site_name": site_name,
+            "coordinates": coordinates,
+            "start_date": start_date,
+            "end_date": end_date,
+        } | other_info
+
+
 def get_api_response(url, csv=False):
     """ Helper function to send request to API and get the response
 
