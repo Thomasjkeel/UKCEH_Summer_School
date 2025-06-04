@@ -1,3 +1,8 @@
+"""
+    Functions for accessing COSMOS data.
+    Please see https://cosmos-api.ceh.ac.uk/python_examples for code examples
+    Please see https://cosmos-api.ceh.ac.uk/docs for more details
+"""
 from datetime import datetime
 import io
 import json
@@ -39,3 +44,45 @@ def get_collection_parameter_info(params):
     df = df.drop(['sensorInfo', 'unit'], axis=1)
 
     return df
+
+
+def format_datetime(dt):
+    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def read_json_collection_data(json_response):
+    """Wrangle the response JSON from a COSMOS-API data collection request into a more usable format - in this case a Pandas Dataframe
+
+    :param dict json_response: The JSON response dictionary returned from a COSMOS-API data collection request
+    :return: Dataframe of data
+    :rtype: pd.DataFrame
+    """
+    # The response is a list of dictionaries, one for each requested site
+
+    # You can choose how you want to build your dataframes.  Here, I'm just loading all stations into one big dataframe.
+    # But you could modify this for your own use cases.  For example you might want to build a dictionary of {site_id: dataframe}
+    # to keep site data separate, etc.
+    master_df = pd.DataFrame()
+
+    for site_data in resp["coverages"]:
+        # Read the site ID
+        site_id = site_data["dct:identifier"]
+
+        # Read the time stamps of each data point
+        time_values = pd.DatetimeIndex(site_data["domain"]["axes"]["t"]["values"])
+
+        # Now read the values for each requested parameter at each of the time stamps
+        param_values = {
+            param_name: param_data["values"]
+            for param_name, param_data in site_data["ranges"].items()
+        }
+
+        # And put everything into a dataframe
+        site_df = pd.DataFrame.from_dict(param_values)
+        site_df["datetime"] = time_values
+        site_df["site_id"] = site_id
+
+        site_df = site_df.set_index(["datetime", "site_id"])
+        master_df = pd.concat([master_df, site_df])
+
+    return master_df
