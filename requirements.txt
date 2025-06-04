@@ -1,5 +1,6 @@
 altair>=5.0.0
 cftime>=1.6.0
+dask>=2024.12.1
 geopandas>=1.0.1
 matplotlib>=3.9.2
 netCDF4>=1.7.2
