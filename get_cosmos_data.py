@@ -3,11 +3,8 @@
     Please see https://cosmos-api.ceh.ac.uk/python_examples for code examples
     Please see https://cosmos-api.ceh.ac.uk/docs for more details
 """
-from datetime import datetime
-import io
 import json
 import requests
-import zipfile
 
 import pandas as pd
 
