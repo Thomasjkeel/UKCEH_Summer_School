@@ -13,6 +13,22 @@ import pandas as pd
 
 BASE_URL = 'https://cosmos-api.ceh.ac.uk'
 
+
+def get_single_station_data(station_name, start_date, end_date, variable_list, site_info=None):
+    if not site_info:
+        site_info = get_cosmos_station_metadata()
+    start_date = format_datetime(start_date)
+    end_date = format_datetime(end_date)
+    query_date_range = f"{start_date}/{end_date}"
+
+    # Extracting COSMOS data for variables the station over the required period into a pandas dataframe
+    query_url = f'{BASE_URL}/collections/1D/locations/{station_name}?datetime={query_date_range}&parameter-name={",".join(variable_list)}'
+    resp = get_api_response(query_url)
+    df = read_json_collection_data(resp)
+    df = df.reset_index()
+    return df
+
+
 def get_single_station_metadata(station_name, site_info=None):
     if not site_info:
         site_info = get_cosmos_station_metadata()
@@ -46,6 +62,7 @@ def get_cosmos_station_metadata():
             "start_date": start_date,
             "end_date": end_date,
         } | other_info
+    return site_info
 
 
 def get_api_response(url, csv=False):
@@ -99,7 +116,7 @@ def read_json_collection_data(json_response):
     # to keep site data separate, etc.
     master_df = pd.DataFrame()
 
-    for site_data in resp["coverages"]:
+    for site_data in json_response["coverages"]:
         # Read the site ID
         site_id = site_data["dct:identifier"]
 
