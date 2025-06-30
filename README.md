@@ -1,6 +1,30 @@
-# UKCEH_Summer_School_2025
+# UKCEH Summer School -- Data Driven Approaches to Hydrological Science
+Welcome to the UKCEH Summer School on **Data Driven Approaches to Hydrological Science**. 
 
+This series of ???four??? hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data using Python. Each session is designed to build practical skills through guided exercises and Jupyter Notebooks. Below youm will find brief summaries of each workshop, along with links to the corresponding notebooks that we will explore together during the training.
 
+<details>
+    <summary>If you are not attending the Summer School, please click here to read this message.</summary>
+These notebooks were developed for the UKCEH Summer School and are intended to be used interactively during the training sessions. The materials are designed to be run on [Google Colab](https://colab.google/), which allows you to get started quickly without any local setup.
+  
+However, you're very welcome to explore the notebooks at your own pace and on a different platform of your choice, as long as the required packages are installed correctly. If you would like help setting up the environment on your local machine or another platform, we are happy to provide support.
+</details>
+
+## Training Objectives
+The high-level objectives of these workshops are to:
+- Introduce fundamental concepts in water resources modelling
+- Demonstrate how to access and work with remote datasets using Python
+- Provide an overview of key datasets commonly used in hydrological science
+- Offer hands-on experience with standard tools and packages through practical applications
+
+## Contact
+If you have any questions or need assistance with the workshops, please feel free to get in touch with us:
+[Amulya Chevuturi](mailto:amuche@ceh.ac.uk)
+???PLEASE SUGGEST OTHERS???
+
+## ???To help get you set up for these three workshops, we provide:???
+
+## Running this on Google Colab
 ## ToDo:
 - add section numbering to all notebooks e.g. 2., 2.1., 2.1.2,
 - Check if we need s3fs
