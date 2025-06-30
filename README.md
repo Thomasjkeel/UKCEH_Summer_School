@@ -70,3 +70,4 @@ Do it yourself session with guidance on using hydrological data into research wo
 ## ToDo:
 - add section numbering to all notebooks e.g. 2., 2.1., 2.1.2,
 - Check if we need s3fs
+- Should we name the repository with 2025, I would say we can version it with 2025, if needed, but might be best to just have it called UKCEH Summer School.
