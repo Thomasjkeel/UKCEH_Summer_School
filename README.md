@@ -1,5 +1,5 @@
-# UKCEH Summer School -- Data Driven Approaches to Hydrological Science
-Welcome to the UKCEH Summer School on **Data Driven Approaches to Hydrological Science**. 
+# UKCEH Summer School - Data Driven Approaches to Hydrological Science
+Welcome to the **UKCEH Summer School** on *Data Driven Approaches to Hydrological Science*. 
 
 This series of ???four??? hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data using Python. Each session is designed to build practical skills through guided exercises and Jupyter Notebooks. Below youm will find brief summaries of each workshop, along with links to the corresponding notebooks that we will explore together during the training.
 
@@ -38,32 +38,33 @@ To run the training notebooks using [Google Colab](https://colab.research.google
 7. You are now working on your own copy of the notebook, which you can rename if you choose.
 8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
+10. ???include about the requirement.txt if they need to run it somewhere else???
 
 ## Introduction to the Workshops
 This series of four interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
 
 ### Workshop 1: Approaches to Hydrological Modelling
-**Facilitators:** Nathan Rickards | Helen Baron
-???One line description???
-???LINK TO NOTEBOOK???
+**Facilitators:** *Nathan Rickards | Helen Baron*
+
+???One line description of the workshop??? ???LINK TO NOTEBOOK???
 
 
 ### Workshop 2: Accessing remote hydrological data
-**Facilitators:** Amulya Chevuturi | Matt Dalle Piagge | Tom Keel | Kit Macleod | Matt Fry
-Follow-along session on accessing and retrieving remote hydrological datasets using Python, including common tools and protocols for working with data hosted on public or institutional servers.
-???LINK TO NOTEBOOK???
+**Facilitators:** *Amulya Chevuturi | Matt Dalle Piagge | Tom Keel | Kit Macleod | Matt Fry*
+
+Follow-along session on accessing and retrieving remote hydrological datasets using Python, including common tools and protocols for working with data hosted on public or institutional servers. ???LINK TO NOTEBOOK???
 
 
 ### Workshop 3: Exploring hydrological data
-**Facilitators:** Matt Dalle Piagge | Tom Keel | Amulya Chevuturi | Kit Macleod | Matt Fry
-Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis.
-???LINK TO NOTEBOOK???
+**Facilitators:** *Matt Dalle Piagge | Tom Keel | Amulya Chevuturi | Kit Macleod | Matt Fry*
+
+Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. ???LINK TO NOTEBOOK???
 
 
 ### Workshop 4: Researching with hydrological data
-**Facilitators:** Tom Keel | Amulya Chevuturi | Matt Dalle Piagge | Kit Macleod | Matt Fry
-Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices.
-???LINK TO NOTEBOOK???
+**Facilitators:** *Tom Keel | Amulya Chevuturi | Matt Dalle Piagge | Kit Macleod | Matt Fry*
+
+Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. ???LINK TO NOTEBOOK???
 
 
 ## ToDo:
