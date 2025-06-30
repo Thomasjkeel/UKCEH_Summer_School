@@ -22,7 +22,7 @@ If you have any questions or need assistance with the workshops, please feel fre
 
 [Amulya Chevuturi](mailto:amuche@ceh.ac.uk)
 
-???PLEASE SUGGEST OTHERS???
+???PLEASE SUGGEST OTHERS??? Or give individual email ids?
 
 ## Running the Training Notebooks on Google Colab
 To run the training notebooks using [Google Colab](https://colab.research.google.com/), follow these steps:
@@ -39,10 +39,32 @@ To run the training notebooks using [Google Colab](https://colab.research.google
 8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
 
- 
+## Introduction to the Workshops
+This series of four interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
+
+### Workshop 1: Approaches to Hydrological Modelling
+**Facilitators:** Nathan Rickards | Helen Baron
+???One line description???
+???LINK TO NOTEBOOK???
 
 
-## ???To help get you set up for these three workshops, we provide:???
+### Workshop 2: Accessing remote hydrological data
+**Facilitators:** Amulya Chevuturi | Matt Dalle Piagge | Tom Keel | Kit Macleod | Matt Fry
+Follow-along session on accessing and retrieving remote hydrological datasets using Python, including common tools and protocols for working with data hosted on public or institutional servers.
+???LINK TO NOTEBOOK???
+
+
+### Workshop 3: Exploring hydrological data
+**Facilitators:** Matt Dalle Piagge | Tom Keel | Amulya Chevuturi | Kit Macleod | Matt Fry
+Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis.
+???LINK TO NOTEBOOK???
+
+
+### Workshop 4: Researching with hydrological data
+**Facilitators:** Tom Keel | Amulya Chevuturi | Matt Dalle Piagge | Kit Macleod | Matt Fry
+Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices.
+???LINK TO NOTEBOOK???
+
 
 ## ToDo:
 - add section numbering to all notebooks e.g. 2., 2.1., 2.1.2,
