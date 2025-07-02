@@ -45,6 +45,7 @@ This series of four interactive workshops is designed to introduce participants 
 
 ### Workshop 0: Intro to Git
 **Facilitators:** *Simon Stanley*
+
 This workshop will have hands-on Git exercises designed to help you practise essential version control skills. It looks at common workflows such as commiting, branching and merging, as well as touching on the use of remote repositories. The GitHub repo used for this workshop is [intro-to-git-exercises](https://github.com/NERC-CEH/intro-to-git-exercises).
 
 ### Workshop 1: Approaches to Hydrological Modelling
