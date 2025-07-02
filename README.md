@@ -74,6 +74,3 @@ Do it yourself session with guidance on using hydrological data into research wo
 ### Workshop 5: Creating FAIR Outputs
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
 
-
-## ToDo:
-- Link Simon's repo to this one
