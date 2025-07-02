@@ -1,7 +1,7 @@
 # UKCEH Summer School - Data Driven Approaches to Hydrological Science
 Welcome to the **UKCEH Summer School** on *Data Driven Approaches to Hydrological Science*. 
 
-This series of ???four??? hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data using Python. Each session is designed to build practical skills through guided exercises and Jupyter Notebooks. Below youm will find brief summaries of each workshop, along with links to the corresponding notebooks that we will explore together during the training.
+This series of hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data and approaches. Each session is designed to build practical skills through guided exercises and additional resources. Below you will find brief summaries of each workshop, along with links to the corresponding resources that we will explore together during the training.
 
 <details>
     <summary>If you are not attending the Summer School, please click here to read this message.</summary>
@@ -11,7 +11,7 @@ However, you're very welcome to explore the notebooks at your own pace and on a 
 </details>
 
 ## Training Objectives
-The high-level objectives of these workshops are to:
+The high-level objectives of this summer school are:
 - Introduce fundamental concepts in water resources modelling
 - Demonstrate how to access and work with remote datasets using Python
 - Provide an overview of key datasets commonly used in hydrological science
@@ -43,6 +43,10 @@ To run the training notebooks using [Google Colab](https://colab.research.google
 ## Introduction to the Workshops
 This series of four interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
 
+### Workshop 0: Intro to Git
+**Facilitators:** *Simon Stanley*
+This workshop will have hands-on Git exercises designed to help you practice essential version control skills. It covers common workflows such as branching, merging, resolving conflicts, and using GitHub for collaboration. The GitHub repo used for this workshop is [intro-to-git-exercises](https://github.com/NERC-CEH/intro-to-git-exercises).
+
 ### Workshop 1: Approaches to Hydrological Modelling
 **Facilitators:** *Nathan Rickards | Helen Baron*
 
@@ -66,8 +70,12 @@ Hands-on session on exploring different types of hydroclimate datasets, includin
 
 Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. ???LINK TO NOTEBOOK???
 
+### Workshop 5: Creating FAIR Outputs
+**Facilitators:** *Jasmine Hunter | Els Dhiedt*
+
 
 ## ToDo:
 - add section numbering to all notebooks e.g. 2., 2.1., 2.1.2,
-- Check if we need s3fs
+- Link Simon's repo to this one
+- Check if we need s3fs - we do need it. 
 - Should we name the repository with 2025, I would say we can version it with 2025, if needed, but might be best to just have it called UKCEH Summer School.
