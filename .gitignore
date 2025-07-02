@@ -111,3 +111,5 @@ ENV/
 
 # TK added this:
 other_examples/
+pyproject.toml
+uv.lock
