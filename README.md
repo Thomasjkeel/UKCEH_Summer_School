@@ -74,9 +74,3 @@ Do it yourself session with guidance on using hydrological data into research wo
 ### Workshop 5: Creating FAIR Outputs
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
 
-
-## ToDo:
-- add section numbering to all notebooks e.g. 2., 2.1., 2.1.2,
-- Link Simon's repo to this one
-- Check if we need s3fs - we do need it. 
-- Should we name the repository with 2025, I would say we can version it with 2025, if needed, but might be best to just have it called UKCEH Summer School.
