@@ -20,7 +20,10 @@ The high-level objectives of this summer school are:
 ## Contact
 If you have any questions or need assistance with the workshops, please feel free to get in touch with us:
 
-[Amulya Chevuturi](mailto:amuche@ceh.ac.uk)
+(alphabetical order)  
+[Amulya Chevuturi](mailto:amuche@ceh.ac.uk)  
+[Matt Dalle Piage]...  
+[Tom Keel](mailto:tomkee@ceh.ac.uk)  
 
 ???PLEASE SUGGEST OTHERS??? Or give individual email ids?
 
