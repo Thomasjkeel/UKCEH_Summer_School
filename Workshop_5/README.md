@@ -26,8 +26,7 @@ Useful links and resources:
 
 7. EIDC Supporting information template and guidance -  https://eidc.ac.uk/deposit/supportingDocumentation
 
-8. Repository search tool - https://commons.datac
-ite.org/repositories
+8. Repository search tool - https://commons.datacite.org/repositories
 
 9. FAIRsharing standards directory - https://fairsharing.org/search?fairsharingRegistry=Standard
 
