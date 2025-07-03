@@ -8,8 +8,8 @@ Learning outcome: During this session you will gain an understanding of the FAI
 The session will cover the following through group exercises and discussion:
 1. What are the FAIR Principles and why are they important for open science
 2. How to create FAIR data
-3. How to publish FAIR data as a scientific output
-4. FAIR metadata and supporting information?
+3. publishing FAIR data as a scientific output
+4. FAIR metadata and supporting information
 
 Useful links and resources:
 1. Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
