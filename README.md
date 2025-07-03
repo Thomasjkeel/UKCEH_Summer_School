@@ -44,7 +44,7 @@ To run the training notebooks using [Google Colab](https://colab.research.google
 10. ???include about the requirement.txt if they need to run it somewhere else???
 
 ## Introduction to the Workshops
-This series of four interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
+This series of five interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
 
 ### Workshop 0: Intro to Git
 **Facilitators:** *Simon Stanley*
@@ -77,3 +77,4 @@ Do it yourself session with guidance on using hydrological data into research wo
 ### Workshop 5: Creating FAIR Outputs
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
 
+During this session you will gain an understanding of the FAIR principles, how to create and publish FAIR data, and discuss the importance of open science through a series of group exercises.
