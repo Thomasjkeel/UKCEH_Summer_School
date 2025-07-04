@@ -3,6 +3,7 @@ Workshop 5: Creating FAIR Outputs, Wednesday 16th July 13:00-14:00.
 Led by: Jasmine Hunter and Els Dhiedt
 
 Overview:
+
 Learning outcome: During this session you will gain an understanding of the FAIR principles,how to create and publish FAIR datasets, and be able to apply the FAIR principles to your own data and metadata.
 
 The session will cover the following through group exercises and discussion:
