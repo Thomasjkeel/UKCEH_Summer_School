@@ -24,6 +24,7 @@ If you have any questions or need assistance with the workshops, please feel fre
 [Amulya Chevuturi](mailto:amuche@ceh.ac.uk)  
 [Matt Dalle Piage](mailto:matbro@ceh.ac.uk)  
 [Tom Keel](mailto:tomkee@ceh.ac.uk)  
+[Nathan Rickards](mailto:natric@ceh.ac.uk)
 
 ???PLEASE SUGGEST OTHERS??? Or give individual email ids?
 
@@ -54,7 +55,7 @@ This workshop will have hands-on Git exercises designed to help you practise ess
 ### Workshop 1: Approaches to Hydrological Modelling
 **Facilitators:** *Nathan Rickards | Helen Baron*
 
-???One line description of the workshop??? ???LINK TO NOTEBOOK???
+An introduction to hydrological modelling via the application of a UKCEH water resources model to a case study catchment ???LINK TO NOTEBOOK???
 
 
 ### Workshop 2: Accessing remote hydrological data
