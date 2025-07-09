@@ -5,7 +5,7 @@ This series of hands-on workshops introduces the fundamentals of accessing, mode
 
 <details>
     <summary>If you are not attending the Summer School, please click here to read this message.</summary>
-These notebooks were developed for the UKCEH Summer School and are intended to be used interactively during the training sessions. The materials are designed to be run on [Google Colab](https://colab.google/), which allows you to get started quickly without any local setup.
+These notebooks were developed for the UKCEH Summer School and are intended to be used interactively during the training sessions. The materials are designed to be run on <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup.
   
 However, you are very welcome to explore the notebooks at your own pace and on a different platform of your choice, as long as the required packages are installed correctly. This repository includes a requirements.txt file listing the necessary packages for the various workshops. You can install all required packages using the following command:
 
