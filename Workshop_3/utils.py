@@ -1,8 +1,9 @@
 #
-# Matt Brown, Dec 2019
+# Matt Dalle Piagge, Dec 2019
 #-----------------------------------------
 #
-# Utilities for processing abstraction data
+# Utilities for working with netcdf, grd and shapefile data
+# Adapted July 2025 for the UKCEH Summer School
 
 import numpy as np
 import netCDF4 as nc4
