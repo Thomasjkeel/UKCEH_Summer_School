@@ -47,7 +47,7 @@ This workshop will have hands-on Git exercises designed to help you practise ess
 ### Workshop 1: Approaches to Hydrological Modelling
 **Facilitators:** *Nathan Rickards | Helen Baron*
 
-An introduction to hydrological modelling via the application of a UKCEH water resources model to a case study catchment. Here is the link to Workshop 1.
+An introduction to hydrological modelling, with a hands on application of a UKCEH water resources model in a case study catchment. Here is the link to [Workshop 1](https://github.com/NERC-CEH/UKCEH_Summer_School/blob/main/Workshop_1/summer_school_hydro_modelling_2025_v1.ipynb).
 
 
 ### Workshop 2: Accessing remote hydrological data
