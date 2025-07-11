@@ -1,3 +1,6 @@
 [submodule "intro-to-git"]
 	path = Workshop_0/intro-to-git
 	url = https://github.com/NERC-CEH/intro-to-git-exercises
+[submodule "Workshop_2/Google_Earth_Engine_python_demo"]
+	path = Workshop_2/Google_Earth_Engine_python_demo
+	url = git@github.com:eugmag/Google_Earth_Engine_python_demo.git
