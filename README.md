@@ -14,6 +14,8 @@ However, you are very welcome to explore the notebooks at your own pace and on a
 If you would like help setting up the environment on your local machine or another platform, we are happy to provide support. 
 </details>
 
+---
+
 ## Training Objectives
 The high-level objectives of this summer school are:
 - Introduce fundamental concepts in water resources modelling
@@ -35,6 +37,8 @@ To run the training notebooks using *Google Colab*, follow these steps:
 7. You are now working on your own copy of the notebook, which you can rename if you choose.
 8. You can safely close the original (read-only) notebook tab and continue working on your personal copy.
 9. The copied notebook will be saved in your Google Drive and can be accessed anytime.
+
+---
 
 ## Introduction to the Workshops
 This series of different interactive workshops is designed to introduce participants to data-driven approaches in hydrological science. Each session focuses on a specific aspect of working with hydrological data, from modelling concepts to accessing, exploring, and applying datasets in research contexts.
@@ -71,6 +75,8 @@ Do it yourself session with guidance on using hydrological data into research wo
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
 
 During this session you will gain an understanding of the FAIR principles, how to create and publish FAIR data, and discuss the importance of open science through a series of group exercises.
+
+---
 
 ## Contact
 If you have any questions or need assistance with the workshops, please feel free to get in touch with us:
