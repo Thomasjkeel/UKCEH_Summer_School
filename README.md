@@ -74,7 +74,7 @@ Do it yourself session with guidance on using hydrological data into research wo
 ### Workshop 5: Creating FAIR Outputs
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
 
-During this session you will gain an understanding of the FAIR principles, how to create and publish FAIR data, and discuss the importance of open science through a series of group exercises.
+During this session you will gain an understanding of the FAIR principles, how to create and publish FAIR data, and discuss the importance of open science through a series of group exercises. Here is the link to [Workshop 5](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_5).
 
 ---
 
