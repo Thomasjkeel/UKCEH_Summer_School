@@ -7,6 +7,7 @@ cftime>=1.6.0
 dask>=2024.8.0
 folium>=0.19.7
 geopandas>=1.0.1
+h5netcdf>=1.6.3
 matplotlib>=3.9.2
 netCDF4>=1.7.2
 numpy>=2.0.2
