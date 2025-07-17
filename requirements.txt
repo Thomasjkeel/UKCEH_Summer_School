@@ -1,5 +1,7 @@
 affine>=2.4.0
 altair>=5.0.0
+boto3==1.38.27
+botocore==1.38.27
 cartopy>=0.24.0
 cftime>=1.6.0
 dask>=2024.8.0
