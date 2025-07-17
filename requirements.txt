@@ -20,4 +20,4 @@ s3fs>=2025.2.0
 scipy>=1.13.0
 shapely>=2.1.1
 xarray>=2024.7.0
-zarr>=3.0.8
+zarr>=3.0.0
