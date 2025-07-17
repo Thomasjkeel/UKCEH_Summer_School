@@ -1,11 +1,13 @@
 # UKCEH Summer School - Data Driven Approaches to Hydrological Science
+[![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/binder)
+
 Welcome to the **UKCEH Summer School** 2025 on *Data Driven Approaches to Hydrological Science*. 
 
 This series of hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data and approaches. Each session is designed to build practical skills through guided exercises and additional resources. Below you will find brief summaries of each workshop, along with links to the corresponding resources that we will explore together during the training.
 
 <details>
     <summary>If you are not attending the Summer School, please click here to read this message.</summary>
-These notebooks were developed for the UKCEH Summer School and are intended to be used interactively during the training sessions. The materials are designed to be run on <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup.
+These notebooks were developed for the UKCEH Summer School and are intended to be used interactively during the training sessions. The materials are designed to be run on <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup. Alternatively, they can be run using Binder: [![Binder](https://gesis.mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/binder)
   
 However, you are very welcome to explore the notebooks at your own pace and on a different platform of your choice, as long as the required packages are installed correctly. This repository includes a requirements.txt file listing the necessary packages for the various workshops. You can install all required packages using the following command:
 
