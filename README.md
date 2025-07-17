@@ -63,13 +63,13 @@ Follow-along session on accessing and retrieving remote hydrological datasets us
 ### Workshop 3: Exploring hydrological data
 **Facilitators:** *Matt Dalle Piagge | Tom Keel | Amulya Chevuturi | Kit Macleod | Matt Fry*
 
-Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to Workshop 3.
+Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to [Workshop 3](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_3).
 
 
 ### Workshop 4: Researching with hydrological data
 **Facilitators:** *Tom Keel | Amulya Chevuturi | Matt Dalle Piagge | Kit Macleod | Matt Fry*
 
-Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. Here is the link to Workshop 4.
+Do it yourself session with guidance on using hydrological data into research workflows, with a focus on applications and good data practices. Here is the link to [Workshop 4](https://github.com/NERC-CEH/UKCEH_Summer_School/tree/main/Workshop_4).
 
 ### Workshop 5: Creating FAIR Outputs
 **Facilitators:** *Jasmine Hunter | Els Dhiedt*
