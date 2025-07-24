@@ -4,3 +4,6 @@
 [submodule "Workshop_2/Google_Earth_Engine_python_demo"]
 	path = Workshop_2/Google_Earth_Engine_python_demo
 	url = https://github.com/eugmag/Google_Earth_Engine_python_demo
+[submodule "Workshop_2/object_store_tutorial"]
+	path = Workshop_2/object_store_tutorial
+	url = https://github.com/NERC-CEH/object_store_tutorial
