@@ -3,6 +3,8 @@
 
 Welcome to the **UKCEH Summer School** 2025 on *Data Driven Approaches to Hydrological Science*. 
 
+![COSMOS_ALCI1.png](https://raw.githubusercontent.com/NERC-CEH/UKCEH_Summer_School/refs/heads/main/content/Project_logos.png)
+
 This series of hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data and approaches. Each session is designed to build practical skills through guided exercises and additional resources. Below you will find brief summaries of each workshop, along with links to the corresponding resources that we will explore together during the training.
 
 <details>
