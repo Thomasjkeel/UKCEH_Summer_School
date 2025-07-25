@@ -9,13 +9,19 @@ This series of hands-on workshops introduces the fundamentals of accessing, mode
 
 <details>
     <summary>If you are not attending the Summer School, please click here to read this message.</summary>
-These notebooks were developed for the UKCEH Summer School and are intended to be used interactively during the training sessions. The materials are designed to be run on <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup. Alternatively, they can be run <a href="https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main">using Binder</a>.
-  
-However, you are very welcome to explore the notebooks at your own pace and on a different platform of your choice, as long as the required packages are installed correctly. This repository includes a requirements.txt file listing the necessary packages for the various workshops. You can install all required packages using the following command:
+    
+
+These notebooks were developed for the UKCEH Summer School and are intended for interactive use during the training sessions. They are designed to run on <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup. For guidance on how to run the notebooks on Colab, see the [Running the Training Notebooks on Google Colab](#running-on-colab) section below.
+
+You are also very welcome to explore the notebooks at your own pace, on any platform of your choice, as long as the required packages are installed. This repository includes a requirements.txt file listing all the necessary dependencies for the various workshops. To install these locally, run the following command:
 
    > !python -m pip install -r requirements.txt
 
 If you would like help setting up the environment on your local machine or another platform, we are happy to provide support. 
+
+Alternatively, you can launch the repository using <a href="https://mybinder.org/">Binder</a>. Clicking the <a href="https://gesis.mybinder.org/v2/gh/NERC-CEH/UKCEH_Summer_School/main">Binder launch badge</a>, at the top of this README, will open the entire GitHub repository in a JupyterLab environment, with all the notebooks ready to run. The Binder environment is pre-configured with the necessary Python packages from the environment file (requirements.txt).
+*Note: Binder has memory (RAM) limitations, so some notebooks may need to be run in parts to avoid crashes or performance issues.*
+
 </details>
 
 ---
@@ -28,6 +34,7 @@ The high-level objectives of this summer school are:
 - Offer hands-on experience with standard tools and packages through practical applications
 
 ## Running the Training Notebooks on Google Colab
+<a id='running-on-colab'></a>
 To run the training notebooks using *Google Colab*, follow these steps:
 1. **Log in to your Google account** and open [Google Colab](https://colab.research.google.com/).
 2. In Colab, go to **File > Open notebook**.
