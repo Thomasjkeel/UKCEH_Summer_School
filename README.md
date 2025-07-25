@@ -33,8 +33,8 @@ The high-level objectives of this summer school are:
 - Provide an overview of key datasets commonly used in hydrological science
 - Offer hands-on experience with standard tools and packages through practical applications
 
-## Running the Training Notebooks on Google Colab
 <a id='running-on-colab'></a>
+## Running the Training Notebooks on Google Colab
 To run the training notebooks using *Google Colab*, follow these steps:
 1. **Log in to your Google account** and open [Google Colab](https://colab.research.google.com/).
 2. In Colab, go to **File > Open notebook**.
