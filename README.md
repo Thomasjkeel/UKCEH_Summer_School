@@ -8,7 +8,7 @@ Welcome to the **UKCEH Summer School** 2025 on *Data Driven Approaches to Hydrol
 This series of hands-on workshops introduces the fundamentals of accessing, modelling, and analysing hydrological data and approaches. Each session is designed to build practical skills through guided exercises and additional resources. Below you will find brief summaries of each workshop, along with links to the corresponding resources that we will explore together during the training.
 
 <details>
-    <summary>If you are not attending the Summer School, please click here to read this message.</summary>
+    <summary><i><b>If you are not attending the online Summer School, please click here to read this message.</i></b></b></summary>
     
 
 These notebooks were developed for the UKCEH Summer School and are intended for interactive use during the training sessions. They are designed to run on <a href=https://colab.google/>Google Colab</a>, which allows you to get started quickly without any local setup. For guidance on how to run the notebooks on Colab, see the [Running the Training Notebooks on Google Colab](#running-on-colab) section below.
